@@ -1,1 +1,2 @@
-# farrahdev.github.io
+# please go to:
+# farrahdev.github.io/portfolio
